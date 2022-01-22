@@ -2,11 +2,10 @@
 
 
 
-# 主目录
+# 视频主目录
 
-* [进制]()
+* [进制](https://www.bilibili.com/video/BV1ni4y1G7B9?p=3&spm_id_from=pageDriver)
 
-# 小问题
 
 ---------
 
