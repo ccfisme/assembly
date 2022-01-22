@@ -4,7 +4,7 @@
 
 # 视频主目录
 
-* [进制，本质还是科学计数法](https://www.bilibili.com/video/BV1ni4y1G7B9?p=3&spm_id_from=pageDriver)
+* [进制，本质还是科学计数法（八进制12 = 1 * 8的一次方 + 2 * 8的0次方）](https://www.bilibili.com/video/BV1ni4y1G7B9?p=3&spm_id_from=pageDriver)
 
 
 ---------
