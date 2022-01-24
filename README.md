@@ -9,6 +9,8 @@
 * [数据宽度](https://www.bilibili.com/video/BV1ni4y1G7B9?p=6&spm_id_from=pageDriver)  
 
 * [原码反码补码，有符号的二进制运算。（其实计算机所有的正负数加减运算都用的是补码，如果>0,就是正原码的补码，还是原码；如果<0，就是负原码的补码，则计算原理可参考https://www.zhihu.com/question/20159860）](https://www.bilibili.com/video/BV1ni4y1G7B9?p=8&spm_id_from=pageDriver)
+
+* [位运算介绍](https://www.bilibili.com/video/BV1ni4y1G7B9?p=9&spm_id_from=pageDriver)
 ---------
 
 学习网址：https://www.bilibili.com/video/BV13J41117b9?p=1&share_medium=android&share_plat=android&share_session_id=3ec5ac21-b9f0-44a7-9548-d2fcd445825c&share_source=COPY&share_tag=s_i&timestamp=1633078433&unique_k=l2DChi  
