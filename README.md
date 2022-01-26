@@ -20,7 +20,11 @@
 1110 - 0001 = 1111
 ```
 
-* [位运算介绍](https://www.bilibili.com/video/BV1ni4y1G7B9?p=9&spm_id_from=pageDriver)
+* [位运算介绍](https://www.bilibili.com/video/BV1ni4y1G7B9?p=9&spm_id_from=pageDriver)  
+
+* [位运算在加减法中起到的作用](https://www.bilibili.com/video/BV1ni4y1G7B9?p=10&spm_id_from=pageDriver)  
+
+
 ---------
 
 学习网址：https://www.bilibili.com/video/BV13J41117b9?p=1&share_medium=android&share_plat=android&share_session_id=3ec5ac21-b9f0-44a7-9548-d2fcd445825c&share_source=COPY&share_tag=s_i&timestamp=1633078433&unique_k=l2DChi  
