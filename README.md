@@ -30,7 +30,7 @@
 
 此图为加法的运算，更详细的介绍在视频里，而减法则是取补码相加，乘法是成倍的相加，除法是成倍的相减（但实际运算还是根据进制乘法表找最接近的带进去），那么又用补码，则还是加法，总之计算机只会加法
 
-* [汇编操作，C语言和c++必须先申请地址，然后汇编才能在申请的地址内部操作数据，以及一些操作内存数据的方法可以在这个视频看到](https://zhuanlan.zhihu.com/p/76950607)
+* [汇编操作，C语言和c++必须先申请地址，然后汇编才能在申请的地址内部操作数据，以及一些操作内存数据的方法，为什么要定义数据类型等答案可以在这个视频看到](https://zhuanlan.zhihu.com/p/76950607)
 ---------
 
 学习网址：https://www.bilibili.com/video/BV13J41117b9?p=1&share_medium=android&share_plat=android&share_session_id=3ec5ac21-b9f0-44a7-9548-d2fcd445825c&share_source=COPY&share_tag=s_i&timestamp=1633078433&unique_k=l2DChi  
