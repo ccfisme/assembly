@@ -27,5 +27,4 @@
 
 ![image](https://user-images.githubusercontent.com/74129445/152995492-c9e4fdff-a0b8-4e35-826a-4e6c1e290685.png)   
 
-![Uploading image.png…]()  
 
