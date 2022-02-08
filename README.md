@@ -14,5 +14,5 @@
 * 数据总线多少位与存储单元大小没关系   
 
 
-![Uploading image.png…]()
 
+![image](https://user-images.githubusercontent.com/74129445/152963802-d0668122-d54e-4b96-9b3c-3e364d61aec1.png)
