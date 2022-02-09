@@ -6,8 +6,7 @@
 
 
 * 程序运行的底层原理，比学过的计算机组成原理思路更清晰   
-
-![image](https://user-images.githubusercontent.com/74129445/153226594-17b939a0-679b-42e7-ace3-ae262f8fbcfc.png)  
+![image](https://user-images.githubusercontent.com/74129445/153238988-b9e7f101-abcd-4e72-97bf-b126ca8f8509.png)  
 
 ![image](https://user-images.githubusercontent.com/74129445/152995642-ffdca0cc-d90f-4b1e-bf71-30e8e6429e7f.png)  
 
