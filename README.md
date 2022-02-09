@@ -4,7 +4,12 @@
 
 ![image](https://user-images.githubusercontent.com/74129445/152677475-04d0569c-00c5-4684-ab94-0d93c807eec6.png)   
 
+* CS和IP的值只能用jmp指令修改    
 
+```
+jmp 3:45A  //跳到048AH
+jmp ax（其中ax = 10H）  //跳到0010H
+```
 
 # 底层原理
 * 程序运行的底层原理，比学过的计算机组成原理思路更清晰   
