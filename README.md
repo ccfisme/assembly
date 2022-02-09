@@ -7,7 +7,7 @@
 * CS和IP的值只能用jmp指令修改    
 
 ```
-jmp 3:45A  //跳到048AH
+jmp 3:45A  //跳到048AH，含义上类似于mov CS，3   mov IP，45A
 jmp ax（其中ax = 10H）  //跳到0010H，含义上类似于mov IP ax
 ```
 
