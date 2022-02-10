@@ -15,4 +15,12 @@
 
 
 
-![image](https://user-images.githubusercontent.com/74129445/152963802-d0668122-d54e-4b96-9b3c-3e364d61aec1.png)
+![image](https://user-images.githubusercontent.com/74129445/152963802-d0668122-d54e-4b96-9b3c-3e364d61aec1.png)   
+
+
+也可以由下图看出，每个单元里面都是两个十六进制，也就是8个二进制，即一个存储单元是一个字节   
+
+
+![image](https://user-images.githubusercontent.com/74129445/153330900-ee6a19ed-9a00-45b8-b6ac-960bc9555ea0.png)
+
+
