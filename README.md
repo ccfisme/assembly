@@ -4,10 +4,13 @@
 
 ![image](https://user-images.githubusercontent.com/74129445/152677475-04d0569c-00c5-4684-ab94-0d93c807eec6.png)   
 
-* CS和IP的值只能用jmp指令修改    
+* CS和IP的值只能用jmp指令修改，jmp改变有两种方式，，一个是CS和IP都可以改，用的是段地址加偏移地址的表示方法；一个是只改IP，用的是jmp+寄存器的表示方式   
 
 ```
+方法一：改CS IP
 jmp 3:45A  //跳到048AH，含义上类似于mov CS，3   mov IP，45A
+
+方法二：改IP
 jmp ax（其中ax = 10H）  //跳到0010H，含义上类似于mov IP ax
 ```
 
