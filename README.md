@@ -14,6 +14,8 @@ jmp 3:45A  //跳到048AH，含义上类似于mov CS，3   mov IP，45A
 jmp ax（其中ax = 10H）  //跳到0010H，含义上类似于mov IP ax
 ```
 
+在jmp这里还有一个小点，就是jmp到指定指令后会顺序执行至最后一条，在最后一条的时候会自动再跳一次，跳回到最开始跳的指令的下一条
+
 # 底层原理
 * 程序运行的底层原理，比学过的计算机组成原理思路更清晰   
 ![image](https://user-images.githubusercontent.com/74129445/153238988-b9e7f101-abcd-4e72-97bf-b126ca8f8509.png)  
