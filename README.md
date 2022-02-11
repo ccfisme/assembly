@@ -105,14 +105,15 @@ jmp ax（其中ax = 10H）  //跳到0010H，含义上类似于mov IP ax
   
 ## t指令
 执行当前CS:IP的指令，并在执行结束后IP自增，用r指令查看时寄存器下的汇编会跳至下一句汇编   
-如图   
+如图:   
 
 ![image](https://user-images.githubusercontent.com/74129445/153658871-c8338fee-4a1b-4cec-bdb1-c484e1134f1c.png)  
 
 ## a指令  
 直接写汇编，```-a CS:IP```,然后从当前地址开始写，想结束就回车  
 
-如图
+如图:  
+
 ![image](https://user-images.githubusercontent.com/74129445/153659361-277cfdc6-db89-4a7a-abb1-029a1da868ab.png)  
 
 
