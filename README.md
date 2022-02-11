@@ -95,6 +95,25 @@ jmp ax（其中ax = 10H）  //跳到0010H，含义上类似于mov IP ax
     ![image](https://user-images.githubusercontent.com/74129445/153657583-d3888770-b387-4219-861b-8018a625ef71.png)   
     
     
+## u指令(范围限定和d指令一样)  
+把内存中的机器字转换为汇编  
+如图：  
+
+  ![image](https://user-images.githubusercontent.com/74129445/153657957-701bfe90-64a7-4284-ba28-6910a7137dd3.png)  
+  
+  如果范围内的机器字中在尾端的机器字不足以组成一句汇编，那么就会自动舍弃这个机器字   
+  
+## t指令
+执行当前CS:IP的指令，并在执行结束后IP自增，用r指令查看时寄存器下的汇编会跳至下一句汇编   
+如图   
+
+![image](https://user-images.githubusercontent.com/74129445/153658871-c8338fee-4a1b-4cec-bdb1-c484e1134f1c.png)  
+
+## a指令  
+直接写汇编，```-a CS:IP```,然后从当前地址开始写，想结束就回车  
+
+如图
+![image](https://user-images.githubusercontent.com/74129445/153659361-277cfdc6-db89-4a7a-abb1-029a1da868ab.png)  
 
 
 
