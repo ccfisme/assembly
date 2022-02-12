@@ -4,7 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/74129445/152677475-04d0569c-00c5-4684-ab94-0d93c807eec6.png)   
 
-
+* 本书用的是倒着存的内存   
+ ![image](https://user-images.githubusercontent.com/74129445/153713191-ef6656f9-278e-432e-b044-70cf4dd48ddd.png)   
+ 
 
 
 # 底层原理
