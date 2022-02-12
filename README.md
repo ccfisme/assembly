@@ -21,6 +21,10 @@
 也可以由下图看出，每个单元里面都是两个十六进制，也就是8个二进制，即一个存储单元是一个字节   
 
 
-![image](https://user-images.githubusercontent.com/74129445/153330900-ee6a19ed-9a00-45b8-b6ac-960bc9555ea0.png)
+![image](https://user-images.githubusercontent.com/74129445/153330900-ee6a19ed-9a00-45b8-b6ac-960bc9555ea0.png)   
 
 
+
+由数据总线决定的叫做字长    
+
+![image](https://user-images.githubusercontent.com/74129445/153709194-fc5d1f95-1331-4528-b780-4e01216430b7.png)  
