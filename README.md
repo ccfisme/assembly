@@ -110,7 +110,7 @@ jmp ax（其中ax = 10H）  //跳到0010H，含义上类似于mov IP ax
 ![image](https://user-images.githubusercontent.com/74129445/153658871-c8338fee-4a1b-4cec-bdb1-c484e1134f1c.png)  
 
 ## a指令  
-直接写汇编，```-a CS:IP```,然后从当前地址开始写，想结束就回车  
+直接写汇编，```-a CS:IP```,然后从当前地址开始写，想结束就回车,没办法用范围来限制结束  
 
 如图:  
 
