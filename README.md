@@ -28,3 +28,8 @@
 由数据总线决定的叫做字长    
 
 ![image](https://user-images.githubusercontent.com/74129445/153709194-fc5d1f95-1331-4528-b780-4e01216430b7.png)  
+
+
+电脑是32位还是64位取决于寄存器的大小，而不是数据总线的大小，但历史上寄存器大小和数据总线的大小通常是相似的   
+
+![image](https://user-images.githubusercontent.com/74129445/153712816-77a362f7-e99f-411f-8fd9-9dc9fb455a4c.png)   
