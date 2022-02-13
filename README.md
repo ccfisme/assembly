@@ -4,8 +4,14 @@
 
 ![image](https://user-images.githubusercontent.com/74129445/152677475-04d0569c-00c5-4684-ab94-0d93c807eec6.png)   
 
-* 2.本书用的是倒着存的内存，以后问哪个地址的子单元存多大的数，就从那个地址开始倒着往前找，然后从下往上念出来存的数   
- ![image](https://user-images.githubusercontent.com/74129445/153713191-ef6656f9-278e-432e-b044-70cf4dd48ddd.png)   
+* 2.本书用的是倒着存的内存，以后问哪个地址的子单元存多大的数，就从那个地址开始倒着往前找，然后从下往上念出来存的数
+  下图中的十进制与十六进制的转换，在实际操作中不用考虑，因为正常的机器只能识别十六进制，所以```1122H```这种表示方式就会有错误，机器不识别H，自动默认为输入的数就是十六进制    
+  
+  ![image](https://user-images.githubusercontent.com/74129445/153743213-7f66d354-62ef-4e9c-abd9-416493227658.png)  
+  
+  当然，做题的时候还是要区分的  
+  
+  ![image](https://user-images.githubusercontent.com/74129445/153713191-ef6656f9-278e-432e-b044-70cf4dd48ddd.png)   
  
 * 3.区分
     cs（code segment）是代码段寄存器，放代码段的段地址，他里面的内容和ip里面的内容合起来就可以找到当前执行的指令，
