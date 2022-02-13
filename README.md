@@ -4,3 +4,5 @@
 
 参考：https://zhuanlan.zhihu.com/p/76950607
 
+---------   
+[段地址寄存器的历史](https://blog.csdn.net/michael2012zhao/article/details/5554023)
