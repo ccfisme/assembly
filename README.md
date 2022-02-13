@@ -20,7 +20,7 @@
   如图   
   ![image](https://user-images.githubusercontent.com/74129445/153739621-008958fc-06a0-458d-a0e3-964562bb1942.png)   
   
-  原因是造价   
+  原因是造价和[数据段寄存器的历史因素](https://github.com/ccfisme/assembly/blob/%E5%AF%84%E5%AD%98%E5%99%A8/README.md#%E6%95%B0%E6%8D%AE%E6%AE%B5%E5%AF%84%E5%AD%98%E5%99%A8%E7%9A%84%E5%8F%91%E5%B1%95%E5%8F%B2)   
   ![image](https://user-images.githubusercontent.com/74129445/153739634-d2eea88d-1da6-41f4-b5ee-c941f9382608.png)     
 * 5.数据段的偏移地址是用[]来表示，当然前提是先有```mov ax,1122     mov ds,ax```操作，然后才有偏移操作```mov al,[1]```，表示将ds * 16 + 1这个地址，也就是11221H里的数放到al里   
 
