@@ -15,8 +15,8 @@
   ![image](https://user-images.githubusercontent.com/74129445/153739621-008958fc-06a0-458d-a0e3-964562bb1942.png)   
   
   原因是造价   
-  ![image](https://user-images.githubusercontent.com/74129445/153739625-fe21ac92-a8a8-4fad-b3a6-e5b03a5f40d1.png)   
-  
+  ![image](https://user-images.githubusercontent.com/74129445/153739634-d2eea88d-1da6-41f4-b5ee-c941f9382608.png)     
+
 
 # 底层原理
 * 程序运行的底层原理，比学过的计算机组成原理思路更清晰   
