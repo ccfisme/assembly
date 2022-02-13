@@ -27,6 +27,9 @@
    如图   
    
    ![image](https://user-images.githubusercontent.com/74129445/153742788-18323a5c-c56a-4ed0-b9cb-9d83a13a2601.png)   
+* 6.这些有关于地址的寄存器好像都不能够进行加减操作，估计是为了省钱，所以就弄得是专用寄存器，不像ax这种寄存器这么好使  
+    ![image](https://user-images.githubusercontent.com/74129445/153743552-b2917e24-49de-45e4-83ee-213bd3c81686.png)   
+    
    
 
 # 底层原理
