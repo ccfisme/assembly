@@ -18,6 +18,9 @@
 
 参考：  
 
-![image](https://user-images.githubusercontent.com/74129445/153751087-e26eb678-5256-4f95-b228-6cb8fd02cf0e.png)  
+![image](https://user-images.githubusercontent.com/74129445/153751087-e26eb678-5256-4f95-b228-6cb8fd02cf0e.png)    
+
+
+但是到了后期，段地址就要用8个字节来表示，这一方面是打补丁的原因，一方面是现代工艺没办法脱离历史段寄存器的应用了
 
 
