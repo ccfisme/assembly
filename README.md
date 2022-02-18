@@ -6,9 +6,9 @@
 参考：https://zhuanlan.zhihu.com/p/76950607
 
 ---------   
-# 数据段寄存器的发展史   
+# 段寄存器的发展史   
 
-[数据段段地址寄存器的历史](https://blog.csdn.net/michael2012zhao/article/details/5554023)   
+[段地址寄存器的历史](https://blog.csdn.net/michael2012zhao/article/details/5554023)   
 
 > 段寄存器的产生源于Intel 8086 CPU体系结构中数据总线与地址总线的宽度不一致。
 
@@ -22,5 +22,5 @@
 
 
 但是到了后期，段地址就要用8个字节来表示，这一方面是现代工艺没办法脱离历史段寄存器的应用了，只能打补丁的原因，一方面是可以**通过控制段的访问范围来保护计算机，防止信息访问错误**
-
-
+  
+[没办法用mov ds,1122H  和  mov cs,ax的原因也是这个](https://github.com/ccfisme/assembly/blob/mov-cs,ax%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%A1%8C/README.md)
