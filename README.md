@@ -4,5 +4,4 @@
 
 # push  
 
-![Uploading image.png…]()  
-
+![image](https://user-images.githubusercontent.com/74129445/155875344-3567b4fd-4501-4c84-b832-e879df621589.png)
